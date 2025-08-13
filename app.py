@@ -1,4 +1,3 @@
-from pyngrok import ngrok, conf
 import requests
 import pandas as pd
 from datetime import datetime
@@ -1217,4 +1216,5 @@ def handle_postback(event):
             messages=[reply]
         )
     )
+
 

@@ -1,2 +1,5 @@
+requests
+pandas
+pygsheets
 flask
-line-bot-sdk
+line-bot-sdk-v3

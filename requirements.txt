@@ -2,4 +2,5 @@ requests
 pandas
 pygsheets
 flask
-line-bot-sdk-v3
+line-bot-sdk
+

@@ -1,6 +1,11 @@
-requests
 pandas
+requests
 pygsheets
 flask
 line-bot-sdk
 gunicorn
+
+google-cloud-secret-manager
+google-auth
+google-api-python-client
+google-auth-oauthlib
